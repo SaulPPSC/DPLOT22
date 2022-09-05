@@ -3,6 +3,7 @@
         "*.ejs": "html",
         "A2.C": "cpp",
         "A3.C": "cpp",
-        "A1.C": "cpp"
+        "A1.C": "cpp",
+        "A4.C": "cpp"
     }
 }
